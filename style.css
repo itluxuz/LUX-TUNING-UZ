@@ -4,7 +4,22 @@
 }
 
 a{
+
   text-decoration: none;
+
+}
+.ustiga{
+  font-size: 20px;
+  position: absolute;
+  top: 300px;
+  font-weight: 700;
+  font-family: 'Courier New', Courier, monospace;
+}
+.soz{
+position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu {
